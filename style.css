@@ -1,3 +1,7 @@
+ul#menu li {
+  display:inline;
+}
+
 .h {
   font-family: Oswald;
   color: darkblue;
@@ -21,4 +25,22 @@ body {
   margin-left: 50px;
   margin-right: 50px;
   background-color: ivory;
+}
+
+.InternetExplorer {
+  float:left;
+  width:300px;
+  padding: 10px;
+}
+
+.GoogleChrome {
+  margin-left: 300px;
+  margin-right: 300px;
+  padding: 10px;
+}
+
+.Firefox {
+  float: right;
+  width: 300px;
+  padding: 10px;
 }
